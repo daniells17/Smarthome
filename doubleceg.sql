@@ -31,13 +31,6 @@ CREATE TABLE IF NOT EXISTS `calendar` (
   `event` varchar(200) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
---
--- Dumping data for table `calendar`
---
-
-INSERT INTO `calendar` (`api`, `event`) VALUES
-('AIzaSyAhW0vQWs7-PKPCUTKV9nHj6U2lSO5RYbg', 'i7eikgkeq4s5h39j6ea6h5vi5o@group.calendar.google.com');
-
 -- --------------------------------------------------------
 
 --
