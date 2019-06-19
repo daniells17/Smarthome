@@ -1,6 +1,8 @@
 # Smarthome
 Smarthome Control - Touchscreen Android Tablet
+
 https://www.youtube.com/watch?v=OmktTIJ05ME&t=106s
+
 
 Untuk pairing code IR/RF.
 Pakai Linux, Copy file broadlink pendukung di dalam 1 folder, lalu install perintah dibawah
