@@ -1,0 +1,31 @@
+Timer
+-211jquery.js
+-clock_style.css
+
+Tanggal dan Jam
+-date.js
+
+Notifikasi status
+-notif.js
+-331jquery.ls
+
+File untuk keyboard virtual
+-demo.js
+-jquery-1.11.0.mim.js
+-jquery.ml-keyboard.css
+-jquery.ml-keyboard.js
+-jquery.ml-keyboard.min.js
+
+pengaturan tampilan
+-css.css
+
+Calendar
+-fullcalender.min.css
+-fullcalender.mmin.js
+-fullcalender.print.min.css
+-gcal.min.js
+*folder lib : calendar
+
+Info Teks menu Home.php
+-jquery-3.3.1.min
+-jquery.cycle.all
